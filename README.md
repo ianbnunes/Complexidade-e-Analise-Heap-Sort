@@ -6,7 +6,7 @@
 
 Este repositório contém a implementação, análise teórica e experimental do algoritmo de ordenação **Heap Sort**, desenvolvido como parte da disciplina de **Teoria da Computação** da CESAR School.
 
-## 👥 Equipe
+## 👥 Equipe 
 * **Emanuel Eduardo**
 * **Ian Nunes**
 * **Mariana Correia**
